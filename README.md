@@ -27,7 +27,7 @@ This README guides you through the Pet Shop blockchain tutorial, focusing on Eth
 - **Description**: Script to deploy the Adoption contract.
 
 ## Setting up Ganache
-In order to test contracts deployment and develop dapp applications and run tests we need to have a blockchain running hence we'll be using Ganache, a personal blockchain for Ethereum development.
+In order to test contracts deployment, develop dapp applications and run tests we need to have a blockchain running hence we'll be using Ganache, a personal blockchain for Ethereum development.
 ## Setting Up MetaMask
 1. **Install MetaMask**: Add the MetaMask extension to your browser.
 2. **Link MetaMask to Ganache**: 
